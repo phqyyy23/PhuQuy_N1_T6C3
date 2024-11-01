@@ -13,16 +13,16 @@
 <h2>Ngôn ngữ lập trình:</h2>
 
 <ul>
-  <li>C#</li>
-  <li>HTML/CSS</li>
-  <li>JavaScript</li>
-  <li>SQL</li>
+  <li><img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" width="20"/> C#</li>
+  <li><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="20"/> HTML/CSS</li>
+  <li><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="20"/> JavaScript</li>
+  <li><img src="https://img.icons8.com/color/48/000000/sql.png" width="20"/> SQL</li>
 </ul>
 <h2>Công cụ và công nghệ:</h3>
 <ul>
-  <li>Git/Github</li>
-  <li>VisualStudio/VisualCode</li>
-  <li>SQLServer/MySQL</li>
+  <li><img src="https://img.icons8.com/color/48/000000/git.png" width="20"/> Git/GitHub</li>
+  <li><img src="https://img.icons8.com/color/48/000000/visual-studio--v2.png" width="20"/> Visual Studio / Visual Code</li>
+  <li><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="20"/> SQL Server / MySQL</li>
 </ul>
 <h2>Kinh nghiệm</h3>
 <ul>

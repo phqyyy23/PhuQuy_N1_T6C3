@@ -1,12 +1,14 @@
 <h2> Giới thiệu</h2>
-<p>Xin chào! Tôi là Nguyễn Huỳnh Phú Quý, hiện đang là sinh viên ngành Kỹ thuật phần mềm tại Trường Đại học Ngoại ngữ - Tin học TP. Hồ Chí Minh. Sinh ra và lớn lên tại Thành phố Trà Vinh, tôi đam mê lập trình và công nghệ. Tôi luôn cố gắng học hỏi, phát triển kỹ năng để tạo ra những giải pháp công nghệ giúp cải thiện cuộc sống và trải nghiệm người dùng.
+<p>👋Xin chào! Tôi là Nguyễn Huỳnh Phú Quý, hiện đang là sinh viên ngành Kỹ thuật phần mềm tại Trường Đại học Ngoại ngữ - Tin học TP. Hồ Chí Minh. Sinh ra và lớn lên tại Thành phố Trà Vinh, tôi đam mê lập trình và công nghệ. Tôi luôn cố gắng học hỏi, phát triển kỹ năng để tạo ra những giải pháp công nghệ giúp cải thiện cuộc sống và trải nghiệm người dùng.
 </p>
-<h2>Kỹ năng</h2>
+
+<h2>🛠️ Kỹ năng</h2>
 <ul>
-  <li>Phát triển ứng dụng web</li>
-  <li>Xây dựng các ứng dụng web</li>
-  <li>Thiết kế giao diện web</li>
-  <li>Quản lý cơ sở dữ liệu</li>
+  <li>🌐 Phát triển ứng dụng web</li>
+  <li>🖥️ Xây dựng các ứng dụng web</li>
+  <li>🎨 Thiết kế giao diện web</li>
+  <li>🗄️ Quản lý cơ sở dữ liệu</li>
+</ul>
 </ul>
 <h2>Ngôn ngữ lập trình:</h2>
 
